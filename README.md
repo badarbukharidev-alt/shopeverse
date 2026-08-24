@@ -2,7 +2,7 @@
 
 Modern responsive e-commerce marketplace UI built with HTML, CSS, JavaScript & Tailwind CSS — featuring product search, filtering, wishlist, shopping cart, product pages, ratings and smooth animations.
 
-![ShopVerse Hero](hero.png)
+![ShopVerse Hero](hero.PNG)
 
 ## Features
 
